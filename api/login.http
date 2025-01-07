@@ -1,0 +1,8 @@
+POST http://localhost:3258/api/auth/local/
+Content-Type: application/json
+
+{
+
+    "identifier": "admin",
+    "password": "123456789987654321"
+}

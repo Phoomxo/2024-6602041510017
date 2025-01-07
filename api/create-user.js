@@ -19,4 +19,4 @@ const createUser = async (username, email, password) => {
   }
 };
 
-createUser("Kapman1", "test@test1.com", "Password1");
+createUser("PICKUP", "test1@test1.com", "Password1");

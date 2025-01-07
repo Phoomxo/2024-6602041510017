@@ -1,0 +1,10 @@
+POST http://localhost:3258/api/auth/local/register
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "email": "phoom2.556677@gmail.com",
+  "password": "123456789987654321"
+}
+
+
