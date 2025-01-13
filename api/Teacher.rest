@@ -1,0 +1,9 @@
+POST http://localhost:3258/api/teachers
+Authorization: Bearer 1b04c2c53772a1910349cdb0027a1f2a1c4ed871ba41526c1f43aafba5981fbd9960aa2c90a506ee1e4067b8d7cec83fe8c54c4bc1fe94cf93868eb8fffde806ed1e1f084f8e246e22339480958e072f27a878baf4dd3ed808c83d202b7a08b0d195586a5e6bcd19217f15efde62e60d8e28b0074cfd6e302dbe0f9cbdb991c6
+Content-Type: application/json
+
+{
+    "data":{
+        "name":"Prawee Wongsa"
+    }
+  }
